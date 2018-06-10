@@ -297,7 +297,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     margin: 18px 0 60px;
 }
 .about_bg {
-    background: url(../images/blur.jpg)no-repeat right;
+    background: url(blur.jpg)no-repeat right;
 
 }
 
@@ -343,7 +343,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 
 /* Portfolio */
 #portfolio {
-    background: rgba(0, 0, 0, 0) url("../images/portfolio_bg.jpg") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("12.jpg") no-repeat scroll 0 0;
     background-size:cover;
     position:relative;
     padding-bottom: 102px;
@@ -448,7 +448,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 
 /* Testimonial */
 #testimonial {
-    background: url("../images/2.jpg") no-repeat scroll 0 0;
+    background: url("2.jpg") no-repeat scroll 0 0;
     background-size:cover;
     position:relative;
 }
@@ -585,7 +585,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 
 /* Footer */
 footer {
-    background: url(../images/madeena12.jpg)no-repeat;
+    background: url(madeena12.jpg)no-repeat;
     background-size:cover;
     position:relative;
     padding-top:45px;
@@ -705,7 +705,7 @@ footer::after {
 }
 /* ScrollUP */
 #scrollUp {
-    background: url(../images/top.png)no-repeat scroll 0 0;
+    background: url(top.png)no-repeat scroll 0 0;
     bottom: 20px;
     color: #000;
     height: 40px;
@@ -714,7 +714,7 @@ footer::after {
     opacity:0.7;
 }
 #scrollUp:hover {
-    background: url(../images/top.png)no-repeat scroll 0 -40px;
+    background: url(top.png)no-repeat scroll 0 -40px;
 }
 
 /* Responsive Styles for various devices */
