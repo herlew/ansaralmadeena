@@ -621,7 +621,7 @@ footer::after {
     text-transform: inherit;
 }
 .footer_item .list-unstyled > li a{
-    color: #1A1C27;
+    color: #fff;
 }
 /* Footer About */
 .footer_item .logo {
@@ -693,7 +693,7 @@ footer::after {
     overflow: hidden;
 }
 .footer_bottom {
-    background: #f9f7f7 none repeat scroll 0 0;
+    background: #222222 none repeat scroll 0 0;
     padding: 28px 0 18px;
     margin-top:55px;
 }
