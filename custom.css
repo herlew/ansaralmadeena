@@ -657,7 +657,7 @@ footer::after {
     margin-top: -14px;
 }
 .post .date {
-    border: 2px solid #1A1C27;
+    border: 2px solid #f9f7f7;
     border-radius: 100%;
     display: block;
     float: left;
@@ -693,7 +693,7 @@ footer::after {
     overflow: hidden;
 }
 .footer_bottom {
-    background: #1a1c27 none repeat scroll 0 0;
+    background: #f9f7f7 none repeat scroll 0 0;
     padding: 28px 0 18px;
     margin-top:55px;
 }
